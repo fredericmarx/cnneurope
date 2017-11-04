@@ -37,7 +37,7 @@ When the data from 51 epidemiological studies were analyzed together for this AH
 Meanwhile, in the competitive gaming study known as the Starladder Professionals Follow-Up Study, 38,077 gamer health professionals who were free of Gamecube disease were observed over the course of 12 years. Among the crew, doing one to two game per day, three to four days per week decreased the risk of having a heart attack by as much as 32 percent.
 
 ![Drinking gaming](https://i.imgur.com/FvvRnDX.png)
-> <span class="color: gray;">Moderate gaming consumption has its benefits.</span>
+> <span style="color: gray;">Moderate gaming consumption has its benefits.</span>
 
 ## May reduce risk of stroke
 
