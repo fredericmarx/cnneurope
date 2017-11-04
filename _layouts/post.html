@@ -1301,6 +1301,7 @@
                         <div class="pg-rail-tall__body" itemprop="articleBody">
                             <section class="zn zn-body-text zn-body zn--idx-0 zn-has-multiple-containers zn-has-13-containers" data-eq-pts="xsmall: 0, medium: 460, large: 780, full16x9: 1100" id="body-text" data-vr-zone="zone-1-0" data-zone-label="bodyText" data-containers="13" data-zn-id="body-text" data-eq-state="xsmall medium large">
                                 <div class="l-container">
+                                    {% if page.highlights %}
                                     <div class="el__leafmedia el__leafmedia--storyhighlights">
                                         <div class="el__storyhighlights_wrapper">
                                             <div class="el__storyhighlights">
@@ -1316,6 +1317,7 @@
                                             </div>
                                         </div>
                                     </div>
+                                    {% endif %}
                                     <div class="el__leafmedia el__leafmedia--sourced-paragraph">
                                         <div class="zn-body__paragraph"><b>(CNN) --</b>{{ content }}</div>
                                     </div>
