@@ -17,7 +17,7 @@ Diese Ansage kam für alle Beteiligten plötzlich, da die Pressekonferenz eigent
 die tiefgreifende Entscheidung gab Heinzelmann an:
 
 "Naja, wir können einfach nicht so weitermachen. Haben sie sich mal den Zustand unserer Gesellschaft, in der wir leben, angesehen? Da
-wird einem schon fast über. Wir müssen was dagegen unternehmen, und nach langem Beraten kamen wir zu diesem Schluss."
+wird einem schon fast übel. Wir müssen was dagegen unternehmen, und nach langem Beraten kamen wir zu diesem Schluss."
 
 CNN Europe hat bisher noch keine weiteren Informationen von der Fussballorganisation erhalten.
 
