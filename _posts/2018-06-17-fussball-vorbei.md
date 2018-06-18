@@ -2,11 +2,11 @@
 title: Fussball ist vorbei
 layout: post
 author: liv
-date: '2018-06-19'
+date: '2018-06-17'
 teaser: Die Fussballorganisation hat heute verkündet, dass es mit der beliebten Sportart nun vorüber sei
 highlights:
 - "Heinrich Heinzelmann, der Vorstandsvorsitzende der Fussballorganisation, teilte heute in einer Pressekonferenz mit:"
-- \"Leider müssen wir mit Fussball aufhören. Ist halt echt blöd aber irgendwann muss es zu Ende gehen\"
+- "'Leider müssen wir mit Fussball aufhören. Ist halt echt blöd aber irgendwann muss es zu Ende gehen'"
 - Fans sind empört
 image: "/images/fussball.jpg"
 category: news
